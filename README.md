@@ -1,6 +1,6 @@
 # parse-server migration
 
-This demo project contains a parse-server backend to migrate from a hosted server on Moralis to a self-hosted server, using parse-server.
+This project contains a parse-server backend, for self-hosted server with Moralis , using parse-server.
 
 ## Getting started locally
 
