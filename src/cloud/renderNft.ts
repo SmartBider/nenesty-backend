@@ -38,7 +38,7 @@ Parse.Cloud.define('getCollectionSelect', async (request: any) => {
       fileHash: 'QmY5JjupX8gygLYBV85aMw8tCFTXoq81EuUTQPqbN3MyTz/0xb0a7c00ea503adbdfe0071bdd9eb6fbb18e7c6b5/Koolinart',
       filePath:
         'https://ipfs.moralis.io:2053/ipfs/QmY5JjupX8gygLYBV85aMw8tCFTXoq81EuUTQPqbN3MyTz/0xb0a7c00ea503adbdfe0071bdd9eb6fbb18e7c6b5/Koolinart',
-      name: 'Koolinart',
+      name: 'Nenesty',
       owner: '0xb0A7c00EA503AdbdFE0071bdd9eB6Fbb18e7C6B5',
       symbol: 'KNRTC',
     };
